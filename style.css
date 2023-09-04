@@ -1,0 +1,242 @@
+.square{
+    height: 300px;
+    width: 300px;
+    background-color: burlywood;
+    margin-top: 200px;
+}
+.l1{
+    height:20px;
+    width: 300px;
+    position:absolute;
+    background-color: black;
+   
+}
+.l2{
+    height:20px;
+    width: 300px;
+    position:absolute;
+    background-color: black;
+    
+    margin-top: 300px;
+}
+.l3{
+    height:300px;
+    width: 20px;
+    position:absolute;
+    background-color: black;
+    margin-bottom: 300px;
+}
+.l4{
+    height:320px;
+    width: 20px;
+    position:absolute;
+    background-color: black;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+.c1{
+    height:25px;
+    width: 25px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 16px;
+    margin-top: 17px;
+    
+}
+.c2{
+    height:25px;
+    width: 25px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 280px;
+    margin-top: 17px; 
+}
+.c3{
+    height:25px;
+    width: 25px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 280px;
+    margin-top: 280px; 
+} 
+.c4{
+    height:25px;
+    width: 25px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 10px;
+    margin-top: 280px;  
+} 
+.circle1{
+    height:90px;
+    width: 90px;
+    border-radius: 80px;
+    position:absolute;
+    background-color: burlywood;
+    border-style: solid;
+    margin-left: 2px;
+    margin-top: 2px;  
+}
+.circle2{
+    height:100px;
+    width: 100px;
+    border-radius: 80px;
+    position:absolute;
+    background-color: maroon;
+    border-style: solid;
+    margin-left: 110px;
+    margin-top: 110px; 
+}
+.line1{
+    height: 2px;
+    width: 200px;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 60px;
+    position:absolute;
+
+}
+.line2{
+    height: 200px;
+    width: 2px;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 60px;
+    position:absolute;
+
+}
+.line3{
+    height: 200px;
+    width: 2px;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 260px;
+    position:absolute;  
+}
+.line4{
+    height: 2px;
+    width: 202px;
+    background-color: black;
+    margin-top: 260px;
+    margin-left: 60px;
+    position:absolute;
+}
+.circle3{
+    height:25px;
+    width: 25px;
+    border-radius: 80px;
+    position:absolute;
+    background-color: maroon;
+    border-style: solid;
+    margin-left: 148px;
+    margin-top: 147px; 
+}
+.line5{
+    height: 2px;
+    width: 178px;
+    background-color: black;
+    margin-top: 70px;
+    margin-left: 72px;
+    position:absolute;
+ 
+}
+.line6{
+    height: 2px;
+    width: 179px;
+    background-color: black;
+    margin-top: 250px;
+    margin-left: 72px;
+    position:absolute; 
+}
+.line7{
+    height: 180px;
+    width: 2px;
+    background-color: black;
+    margin-top: 70px;
+    margin-left: 72px;
+    position:absolute; 
+}
+.line8{
+    height: 180px;
+    width: 2px;
+    background-color: black;
+    margin-top: 70px;
+    margin-left: 250px;
+    position:absolute;
+}
+.circle4{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color:maroon;
+    margin-left: 70px;
+    margin-top: 60px;
+}
+.circle5{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: black;
+    margin-left: 60px;
+    margin-top: 72px; 
+}
+.circle6{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: black;
+    margin-left: 70px;
+    margin-top: 249px;  
+}
+.circle7{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 60px;
+    margin-top: 237px; 
+}
+.circle8{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 240px;
+    margin-top: 249px;  
+}
+.circle9{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: black;
+    margin-left: 250px;
+    margin-top: 237px;  
+}
+.circle10{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: black;
+    margin-left: 240px;
+    margin-top: 60px;  
+}
+.circle11{
+    height:15px;
+    width: 15px;
+    border-radius: 30px;
+    position:absolute;
+    background-color: maroon;
+    margin-left: 250px;
+    margin-top: 72px;    
+}
